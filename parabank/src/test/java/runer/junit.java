@@ -8,9 +8,9 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 //		dryRun=true,
 //		monochrome = true,
-		features =  {"feature\\register.feature"},
+//		features =  {"feature\\register.feature"},
 		
-//		features =  {"feature"},
+		features =  {"feature"},
 //		tags="@tag1",
         glue={"stepdefination"}	,
 //      

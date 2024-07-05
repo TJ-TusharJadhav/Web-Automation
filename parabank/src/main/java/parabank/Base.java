@@ -12,7 +12,7 @@ public class Base {
 		try {
 			driver	= new ChromeDriver();
 			driver.manage().window().maximize();
-			driver.get("https://parabank.parasoft.com/parabank/index.htm");
+//			driver.get("https://parabank.parasoft.com/parabank/index.htm");
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
