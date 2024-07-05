@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-25T19:33:26 IST" name="Default suite" finished-at="2024-06-25T19:33:48 IST" duration-ms="22018">
+    <groups>
+    </groups>
+    <test started-at="2024-06-25T19:33:26 IST" name="Default test" finished-at="2024-06-25T19:33:48 IST" duration-ms="22018">
+      <class name="coverkart.addToCart">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:coverkart.addToCart@61df66b6]" started-at="2024-06-25T19:33:26 IST" name="setUp" finished-at="2024-06-25T19:33:30 IST" duration-ms="4188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="iP15plusBlack()[pri:0, instance:coverkart.addToCart@61df66b6]" started-at="2024-06-25T19:33:30 IST" name="iP15plusBlack" finished-at="2024-06-25T19:33:36 IST" duration-ms="5361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iP15plusBlack -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:coverkart.addToCart@61df66b6]" started-at="2024-06-25T19:33:36 IST" name="tearDown" finished-at="2024-06-25T19:33:37 IST" duration-ms="894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:coverkart.addToCart@61df66b6]" started-at="2024-06-25T19:33:37 IST" name="setUp" finished-at="2024-06-25T19:33:41 IST" duration-ms="3937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="iP15plusGrey()[pri:0, instance:coverkart.addToCart@61df66b6]" started-at="2024-06-25T19:33:41 IST" name="iP15plusGrey" finished-at="2024-06-25T19:33:47 IST" duration-ms="6720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iP15plusGrey -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:coverkart.addToCart@61df66b6]" started-at="2024-06-25T19:33:47 IST" name="tearDown" finished-at="2024-06-25T19:33:48 IST" duration-ms="887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- coverkart.addToCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
